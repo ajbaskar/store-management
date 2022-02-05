@@ -1,5 +1,5 @@
-# c-project
+# Store Management software
 
 c programming mini project 
 
-by collectiva
+by collectiva knowledge academy
