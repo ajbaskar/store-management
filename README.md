@@ -1,5 +1,5 @@
 # Store Management software
 
-c programming mini project 
+This is my first c programming mini project 
 
 by collectiva knowledge academy
